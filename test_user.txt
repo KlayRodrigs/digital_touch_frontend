@@ -1,0 +1,8 @@
+### Usuários de teste disponíveis
+
+| Email | Senha | Role |
+|---|---|---|
+| `admin@digitaltouch.com` | `Admin@123` | ADMIN |
+| `operador@digitaltouch.com` | `Operador@123` | OPERADOR |
+| `viewer@digitaltouch.com` | `Viewer@123` | VIEWER |
+
